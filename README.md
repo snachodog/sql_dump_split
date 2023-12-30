@@ -26,7 +26,7 @@ No additional installation is required for running these scripts, as they use st
    ```bash
    python sql_dump_splitter.py
    ```
-Using the Batch File
+#### Using the Batch File
 Ensure the SQL dump file is in the same directory as the batch file.
 
 Simply double-click the batch file or run it in a command prompt:
