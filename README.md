@@ -37,3 +37,6 @@ Both scripts will create separate SQL files for each database in the dump.
 
 ### Contributing
 Contributions to the SQL Dump Splitter are welcome! Feel free to fork the repository and submit pull requests.
+
+### Acknowledgements
+Part of these scripts may have been created using LLMs such as ChatGPT or Google's Bard.
